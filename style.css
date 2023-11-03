@@ -5,8 +5,9 @@
 }
 body {
 	background: url("./assets/forest.jpeg");
-	background-size: 100%;
+	background-size: 100% 70%;
 	background-repeat: no-repeat;
+	padding-bottom: 75em;
 }
 #landing-card {
 	left: 15%;
