@@ -28,4 +28,16 @@ body {
 }
 #scroll-bar {
 	right: 1%;
+	top: 30em;
+
+}
+.rotate {
+	transform: rotate(90deg);
+}
+.icon {
+	width: 1em;
+	height: 1em;
+}
+#scroll-text {
+	font-size: 0.5em;
 }
