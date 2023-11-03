@@ -22,9 +22,10 @@ body {
 	font-weight: 1000;
 }
 #phone {
-	width: 19em;
 	right: 5%;
-	height: 40em;
 	top: 12em;
 
+}
+#scroll-bar {
+	right: 1%;
 }
