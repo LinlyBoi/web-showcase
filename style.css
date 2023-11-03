@@ -1,0 +1,29 @@
+#nav {
+	width: 75%;
+	background-color: #070213;
+	box-shadow: 1px 1px rgb(10,50,30,0.7)
+}
+body {
+	background: url("./assets/forest.jpeg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#landing-card {
+	left: 15%;
+	width: 40%;
+	top: 240px;
+}
+#wc {
+	--bs-text-opacity: 0.4;
+	font-weight: 750;
+}
+#big {
+	font-weight: 1000;
+}
+#phone {
+	width: 19em;
+	right: 5%;
+	height: 40em;
+	top: 12em;
+
+}

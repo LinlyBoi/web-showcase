@@ -1,0 +1,10 @@
+#nav {
+	width: 75%;
+	background-color: #070213
+}
+.body {
+	background-image: url("assets/forest.jpeg")
+}
+.ul .li {
+	@extend text-light;
+}
